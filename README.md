@@ -2,7 +2,7 @@
 dmi_edu code 
 
 
-#### PyTorch Tensor code 
+#### PyTorch Tensor code [1]
 
 - [pyTorch 특징 : Define and Run / Define by Run]()
 
@@ -13,7 +13,7 @@ dmi_edu code
   arange, empty
   - Background : pyTorch, python 라이브러리(Numpy 개념) , [pyTorch vs Numpy 차이점](https://jfun.tistory.com/238) 
 
-#### 선형 희귀 Linear Regression 
+#### 선형 희귀 Linear Regression [2]
 
 - [pytorch 구현 : Linear](https://github.com/KangHoyong/dmi_edu/blob/master/Linear_Regression/Linear_pytorch.ipynb)
 
@@ -25,6 +25,10 @@ dmi_edu code
 - [다중 선형 희귀 Multivariable Linear regression](https://github.com/KangHoyong/dmi_edu/blob/master/Linear_Regression/%EB%8B%A4%EC%A4%91%EC%84%A0%ED%98%95%ED%9D%AC%EA%B7%80.ipynb)
 
 - [데이터 로더,Data Load](https://github.com/KangHoyong/dmi_edu/blob/master/Linear_Regression/DataLoad.ipynb)
+
+#### 이진 분류 
+
+#### 선택 분류
 
 #### 퍼셉트론 관련 코드
 - [단층 퍼셉트론 이용하면 AND NAND OR 게이트를 구현](https://github.com/KangHoyong/dmi_edu/blob/master/Perceptron_%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0(Single%20%2C%20MLP)/Single-Layer%20Perceptron_1.ipynb)
