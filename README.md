@@ -3,11 +3,28 @@ dmi_edu code
 
 #### PyTorch Tensor code 
 
+- [pyTorch 특징 : Define and Run / Define by Run]()
+
+
 - [pyTorch 이용한 Tensor 조작]()
 
   - 1차원 텐서선언 , 1차원 텐서 dim, shape, size ,인덱스, 슬라이싱  / 2차원 텐서 dim , shape, size , 인덱스, 슬라이싱  / 브로드 캐스팅 실습 , 주의사항 / 텐서 랜덤 인덱스, all_zero , all_ones 
   arange, empty
   - Background : pyTorch, python 라이브러리(Numpy 개념) , [pyTorch vs Numpy 차이점](https://jfun.tistory.com/238) 
+
+#### 선형 희귀 Linear Regression 
+
+- [pytorch 구현 : Linear]()
+
+  - [optimizer.zero_grad()가 필요한 이유]()
+  - [torch.manual_seed()를 하는 이유]()
+
+- [자동미분 pytorch 기능]()
+
+- [다중 선형 희귀 Multivariable Linear regression]()
+
+- [미니 배치와 데이터 로드 Mini Batch and Data Load]()
+
 
 
 #### 퍼셉트론 관련 코드
