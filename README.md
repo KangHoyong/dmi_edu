@@ -1,7 +1,7 @@
 # dmi_edu
 dmi_edu code 
 
-#### pyTorch Tensor code 
+#### PyTorch Tensor code 
 
 - [pyTorch 이용한 Tensor 조작]()
 
