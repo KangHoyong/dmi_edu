@@ -28,7 +28,23 @@ dmi_edu code
 
 #### 이진 분류 
 
+- [시그모이드_시각화_code]()
+ 
+- [파이토치 nn.Linear 와 nn.Sigmoid]()
+
+- [파이토치로 구현하는 로지스틱회귀 code]()
+
+- [로지스틱회귀 class 버전 code]()
+
+- [로지스틱 모델(붓꽃) 데이터 활용]()
+
+
 #### 선택 분류
+
+- [소프트맥스회귀 구현]()
+
+- [파이토치 소프트맥스 비용함수 구하기]()
+
 
 #### 퍼셉트론 관련 코드
 - [단층 퍼셉트론 이용하면 AND NAND OR 게이트를 구현](https://github.com/KangHoyong/dmi_edu/blob/master/Perceptron_%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0(Single%20%2C%20MLP)/Single-Layer%20Perceptron_1.ipynb)
