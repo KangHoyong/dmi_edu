@@ -31,7 +31,7 @@ dmi_edu code
 
 - [파이토치로 구현하는 로지스틱회귀 code](https://github.com/KangHoyong/dmi_edu/blob/master/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80/%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%20nn.Linear%20%EC%99%80%20nn.Sigmoid%20%EB%A1%9C%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80%20%EA%B5%AC%ED%98%84%20.ipynb)
 
-- [로지스틱회귀 class 버전 code](https://github.com/KangHoyong/dmi_edu/blob/master/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80/%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%EB%A1%9C%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80.ipynb)
+- [로지스틱회귀 class 버전 code](https://github.com/KangHoyong/dmi_edu/blob/master/로지스틱%20회귀/class.ipynb)
 
 - [로지스틱 모델(붓꽃) 데이터 활용](https://github.com/KangHoyong/dmi_edu/blob/master/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%EB%AA%A8%EB%8D%B8(%EB%B6%93%EA%BD%83)%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9.ipynb)
 
