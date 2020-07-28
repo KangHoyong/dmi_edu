@@ -21,6 +21,8 @@ dmi_edu code
 
 - [다중 선형 희귀 Multivariable Linear regression](https://github.com/KangHoyong/dmi_edu/blob/master/Linear_Regression/%EB%8B%A4%EC%A4%91%EC%84%A0%ED%98%95%ED%9D%AC%EA%B7%80.ipynb)
 
+- [클래스 구현](https://github.com/KangHoyong/dmi_edu/blob/master/Linear_Regression/class.ipynb)
+
 - [데이터 로더,Data Load](https://github.com/KangHoyong/dmi_edu/blob/master/Linear_Regression/DataLoad.ipynb)
 
 #### 이진 분류 [2]
