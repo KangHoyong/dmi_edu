@@ -9,6 +9,8 @@ dmi_edu code
   - 1차원 텐서선언 , 1차원 텐서 dim, shape, size ,인덱스, 슬라이싱  / 2차원 텐서 dim , shape, size , 인덱스, 슬라이싱  / 브로드 캐스팅 실습 , 주의사항 / 텐서 랜덤 인덱스, all_zero , all_ones 
   arange, empty
   - Background : pyTorch, python 라이브러리(Numpy 개념) , [pyTorch vs Numpy 차이점](https://jfun.tistory.com/238) 
+  
+ - [cuda vs cpu 차이 / 왜 cuda를 쓰는가 ?](https://3months.tistory.com/526)
 
 #### 선형 희귀 Linear Regression [1]
 
