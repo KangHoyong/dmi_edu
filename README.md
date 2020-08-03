@@ -58,3 +58,7 @@
 - [사이킷런 패키지에서 제공하는 분류용 예제 데이터를 이용한 다층 퍼셉트론으로 손글씨 분류하기](https://github.com/KangHoyong/dmi_edu/blob/master/Perceptron_퍼셉트론(Single%20%2C%20MLP)/Multilayer%20Perceptron_final_code(데이터가져오기%2C%20데이터%20확인%2C%20라벨확인%2C%20모델%20생성%20%2C%20train).ipynb)
 
   - Background : sklearn 라이브러리 , zip(python), 모델 정의 , loss fn 설명 
+  
+  
+#### 추가 설명 자료 [5]
+- [require_grad, zero_grad(), no_grad() 차이](https://green-late7.tistory.com/48)
