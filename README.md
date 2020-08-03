@@ -1,6 +1,5 @@
 # dmi_edu
-dmi_edu code 
-
+## 2020.07.20 ~ 2020.07.21 dmi_edu practical task code
 
 #### PyTorch Tensor code [0]
 
