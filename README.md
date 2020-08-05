@@ -19,6 +19,7 @@
 ```
 pyton : 3.8.5 
 torch 1.4.0
+cuda 10.1
 
 editer jupyter notebook
 ```
