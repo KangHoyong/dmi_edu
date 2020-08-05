@@ -2,17 +2,17 @@
 ## 2020.07.20 ~ 2020.07.21 dmi_edu practical task code
 
 ## context
-[0] pytorch base Tensor code 
+[pytorch base Tensor code](https://github.com/KangHoyong/dmi_edu/blob/master/README.md#pytorch-tensor-code-0) 
 
-[1] Linear Regression code 
+[Linear Regression code](https://github.com/KangHoyong/dmi_edu/blob/master/README.md#%EC%84%A0%ED%98%95-%ED%9D%AC%EA%B7%80-linear-regression-1)
 
-[2] Logistic Regression code 
+[Logistic Regression code](https://github.com/KangHoyong/dmi_edu/blob/master/README.md#%EC%9D%B4%EC%A7%84-%EB%B6%84%EB%A5%98-logistic-regression-2) 
 
-[3] 선택분류 code 
+[선택분류 code](https://github.com/KangHoyong/dmi_edu/blob/master/README.md#%EC%84%A0%ED%83%9D-%EB%B6%84%EB%A5%98-3)
 
-[4] perceptron code 
+[perceptron code](https://github.com/KangHoyong/dmi_edu/blob/master/README.md#%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0-%EA%B4%80%EB%A0%A8-%EC%BD%94%EB%93%9C-4)
 
-[5] tip data
+[tip data](https://github.com/KangHoyong/dmi_edu/blob/master/README.md#%EC%B6%94%EA%B0%80-%EC%84%A4%EB%AA%85-%EC%9E%90%EB%A3%8C-5)
 
 #### PyTorch Tensor code [0]
 
