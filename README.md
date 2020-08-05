@@ -1,6 +1,19 @@
 # dmi_edu
 ## 2020.07.20 ~ 2020.07.21 dmi_edu practical task code
 
+## context
+[0] pytorch base Tensor code 
+
+[1] Linear Regression code 
+
+[2] Logistic Regression code 
+
+[3] 선택분류 code 
+
+[4] perceptron code 
+
+[5] tip data
+
 #### PyTorch Tensor code [0]
 
 - [pyTorch 이용한 Tensor 조작](https://github.com/KangHoyong/dmi_edu/blob/master/PyTorch%20Basic/Pytorch_Tensor_Allocation.ipynb)
@@ -25,7 +38,7 @@
 
 - [데이터 로더,Data Load](https://github.com/KangHoyong/dmi_edu/blob/master/Linear_Regression/DataLoad.ipynb)
 
-#### 이진 분류 [2]
+#### 이진 분류 Logistic Regression [2]
 
 - [시그모이드_시각화_code](https://github.com/KangHoyong/dmi_edu/blob/master/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80/%EC%8B%9C%EA%B7%B8%EB%AA%A8%EC%9D%B4%EB%93%9C_%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
  
