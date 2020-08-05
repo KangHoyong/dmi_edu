@@ -14,6 +14,8 @@
 
 [tip data](https://github.com/KangHoyong/dmi_edu/blob/master/README.md#%EC%B6%94%EA%B0%80-%EC%84%A4%EB%AA%85-%EC%9E%90%EB%A3%8C-5)
 
+
+## 개발환경 IDE
 ```
 pyton : 3.8.5 
 torch 1.4.0
